@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* How to use Lora */
+/* .lora-<uniquifier> {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+
+
+.topbar {
+    margin: auto;
+    color: seashell;
+    width: auto;
+}
+.topbar-name, .topbar-home, .topbar-support {
+    border-radius: 1.8rem;
+    background-color: bisque;
+}
+.topbar-login {
+
+}
