@@ -1,0 +1,13 @@
+{
+  "name": "chckit",
+  "version": "1.0.0",
+  "description": "A web application project",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  },
+  "prettier": "./.prettierrc.json"
+}

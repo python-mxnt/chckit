@@ -8,17 +8,16 @@
   font-style: normal;
 } */
 
-
-
 .topbar {
-    margin: auto;
-    color: seashell;
-    width: auto;
+  margin: auto;
+  color: seashell;
+  width: auto;
 }
-.topbar-name, .topbar-home, .topbar-support {
-    border-radius: 1.8rem;
-    background-color: bisque;
+.topbar-name,
+.topbar-home,
+.topbar-support {
+  border-radius: 1.8rem;
+  background-color: bisque;
 }
 .topbar-login {
-
 }
