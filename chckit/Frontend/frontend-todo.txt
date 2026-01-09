@@ -1,1 +1,0 @@
-1. make login and signup swap on a a href element with text "already have an account? login" or "Dont have an account? sign up"
