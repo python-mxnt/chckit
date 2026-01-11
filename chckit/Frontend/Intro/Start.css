@@ -9,15 +9,40 @@
 } */
 
 .topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin: auto;
   color: seashell;
   width: auto;
+  padding: 10px;
+  border-color: black;
+  color: black;
+  text-decoration-color: azure;
 }
 .topbar-name,
 .topbar-home,
 .topbar-support {
   border-radius: 1.8rem;
-  background-color: bisque;
+  padding: 10px;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 .topbar-login {
+  padding: 10px;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.img-topbar {
+  fill: black;
+}
+
+.topbar-name {
+  top: 0;
+  margin-top: 0.2rem;
 }
